@@ -1,0 +1,15 @@
+.image {
+  font-style: italic;
+  color: #008080;
+}
+.column {
+  width: 25%;
+  float: right;
+  padding: 60px;
+  border-style: dashed;
+  border: 30px
+}
+footer{
+  font-style: oblique;
+  font-size: 10px
+}
